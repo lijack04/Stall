@@ -1,0 +1,1 @@
+static assets like images or icons for the site
